@@ -1,0 +1,53 @@
+title = "Awesome Hugo blog"
+baseURL = 'https://hba.sid.one/'
+
+# This is what goes in <html lang="">
+languageCode = 'en-us'
+
+theme = "hugo-blog-awesome"
+
+# This defines how dates are formatted
+defaultContentLanguage = "en-gb"
+
+# To enable Google Analytics 4 (gtag.js) provide G-MEASUREMENT_ID below.
+# To disable  Google Analytics, simply leave the field empty or remove the next line
+googleAnalytics = '' # G-MEASUREMENT_ID
+
+
+# Enable emojis globally
+enableEmoji = true
+
+# set markup.highlight.noClasses=false to enable code highlight
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[menu]
+  [[menu.main]] 
+    # The page reference (pageRef) is useful for menu highlighting
+    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+    pageRef="/"
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    pageRef="posts"
+    name = 'Posts'
+    url = '/posts/'
+    weight = 20
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/stuart-william-johnson/"
+
+[params]
+  sitename = "I am Stu.art"
+  defaultColor = "dark" # set default color mode: dark or light
+  description = "Tech guy who sometimes writes words"
+
+[params.author]
+  intro = "Stu.art Johnson"
+  name = "Stuart Johnson"
+  description = "Person who thinks. Sometimes when I think, I write. Sometimes when I write, I post."
