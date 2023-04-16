@@ -1,19 +1,19 @@
 ---
-title: Negative Framing
+title: Double-negation as framing
 date: 2023-04-15
 ---
 
 ## I.
 
 Any claim can be presented as positive or negative via the law of double negation. Not not P is P. This is only true
-for as long as you work within the axioms of formal logic. Human communication does not abide by these axioms. Amongst
+for as long as you work within the axioms of formal logic. Disputes amongst humans do not abide by these axioms. Amongst
 humans, not not P is a very different proposition to P. It's possible to completely shift the tone of a conversation
 by doubly negating a proposition, and if you ignore the double negation, you'll instantly lose the argument. I think
 examining the axioms of rhetoric is a good way to understand people better.
 
 ## II.
 
-What does it mean to win an argument anyway? In most situation, it means a combination of three things:
+What does it mean to win an argument anyway? In most situations, I think it means a combination of three things:
 
 1. Getting your way
 2. Convincing an audience that you're right
@@ -47,7 +47,7 @@ life on Mars."
 
 Positive subjective traits are more malleable than negative ones. Large corporations choose meaningless positive values like "trust" and "integrity" precisely because they are
 non-binding. To flip these positive frames into negative ones is to make them powerful - too powerful. Pinning "never
-dishonest" as a business value is impractical. There are obviously times in business where you must either not tell the
+dishonest" as a business value is impractical. There are obviously times in business where you must not tell the
 full truth. This is not always malicious either. For example, not telling a negotiating partner information they could
 leverage against you, or not telling your customers about new features that your competitor just launched. It's
 possible to avoid doing these things while still being "honest", but the whole truth was never on the table at all. For
@@ -62,15 +62,11 @@ to shift burdens of proof in the same way. When dealing in the empirical there's
 proof by contradiction is all that is needed.
 
 When you're trying to backdoor naive objectivity into the subjective, negative frames become impossible to rebut
-without challenging the frame itself. Don't say that green is the best color, say that you can't see how any other
-color could be better.
+rhetorically without challenging the frame itself. Don't say that green is the best color, say that you can't see how 
+any other color could be better.
 
 None of this is to say that negative frames are analytically any different from positive frames. Their effects lie in
-rhetoric and the effect they have on conversation, not in shifting the underlying logic. Taking the above example, a
-naive conversationalist might respond to a negative frame about favourite colors by enumerating particular contexts in
-which other colors could be superior to green. Danger signs and warning labels are red because of danger. The proponent
-can defend their positive claim simply by aloofly claiming skepticism. It's a fast way to lose an argument before it
-even begins.
+rhetoric and the effect they have on conversation, not in shifting the underlying logic.
 
 An even more effective way to muddy the water in this way is to follow up a negative frame by casting an aspersion
 about the motives of the person who is challenging it. This is an improvement not just because it's likely to distract
