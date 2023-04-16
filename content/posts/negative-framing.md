@@ -6,7 +6,7 @@ date: 2023-04-15
 ## I.
 
 Any claim can be presented as positive or negative via the law of double negation. Not not P is P. This is only true
-for as long as you work within the same logical axioms. Human communication does not abide by these axioms. Amongst
+for as long as you work within the axioms of formal logic. Human communication does not abide by these axioms. Amongst
 humans, not not P is a very different proposition to P. It's possible to completely shift the tone of a conversation
 by doubly negating a proposition, and if you ignore the double negation, you'll instantly lose the argument. I think
 examining the axioms of rhetoric is a good way to understand people better.
