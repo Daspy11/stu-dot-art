@@ -2,4 +2,6 @@
 
 # thestu.art
 
-This is my blog. It's built in Hugo and mostly speaks for itself.
+This is my blog. It's built in Hugo and mostly speaks for itself. All opinions expressed are my own.
+
+https://www.thestu.art
